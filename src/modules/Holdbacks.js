@@ -1,5 +1,5 @@
 
-var Holdbacks = Hilo.Class.create({
+  var Holdbacks = Hilo.Class.create({
     Extends: Hilo.Container,
     constructor: function(properties){
         Holdbacks.superclass.constructor.call(this, properties);
